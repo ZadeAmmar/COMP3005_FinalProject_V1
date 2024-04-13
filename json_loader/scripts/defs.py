@@ -219,11 +219,12 @@ class Match:
         """
 
 class Player:
-    def __init__(self, name, id, jersey, team):
+    def __init__(self, name, id, jersey, team, country):
         self.name = name
         self.id = id
         self.jersey = jersey
         self.team = team
+        self.country = country
     def toString(self):
         return f"""
         name: {self.name}

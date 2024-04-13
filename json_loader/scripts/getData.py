@@ -128,7 +128,8 @@ def readLineups():
                         player['player_name'],
                         player['player_id'],
                         player['jersey_number'],
-                        teamName
+                        teamName,
+                        player['country']['name']
                     ))
                     for card in player['cards']:
                         cards.add(Card(
@@ -565,4 +566,3 @@ def main():
     readEvents()
     writeDataToCSV()
     print(time.time() - now)
-

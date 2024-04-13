@@ -170,8 +170,7 @@ def Q_1(cursor, conn, execution_time):
 
     query = """
         SELECT player, AVG(statsbomb_xg) AS averageXG
-        FROM Shots
-        WHERE season = '2020/2021' AND competition = 'La Liga' AND statsbomb_xg > 0
+        FROM SHOTS_LL_2020_2021 WHERE statsbomb_xg > 0
         GROUP BY player
         ORDER BY averageXG DESC;
         """
@@ -195,8 +194,7 @@ def Q_2(cursor, conn, execution_time):
 
     query = """
         SELECT player, COUNT(*) AS numShots
-        FROM Shots 
-        WHERE season = '2020/2021' AND competition = 'La Liga'
+        FROM SHOTS_LL_2020_2021
         GROUP BY player
         HAVING COUNT(*) >= 1
         ORDER BY numShots DESC;
@@ -221,8 +219,7 @@ def Q_3(cursor, conn, execution_time):
     
     query = """
         SELECT player, COUNT(*) AS firstTimeShots
-        FROM Shots
-        WHERE season IN ('2020/2021', '2019/2020', '2018/2019') AND competition = 'La Liga' AND first_time = TRUE
+        FROM (SELECT * FROM LL_2018_2019_FT UNION ALL SELECT * FROM LL_2019_2020_FT UNION ALL SELECT * FROM LL_2020_2021_FT)
         GROUP BY player
         HAVING COUNT(*) >= 1
         ORDER BY firstTimeShots DESC;
@@ -246,8 +243,7 @@ def Q_4(cursor, conn, execution_time):
     
     query = """
         SELECT team, COUNT(*) AS passes
-        FROM Passes
-        WHERE season = '2020/2021' AND competition = 'La Liga'
+        FROM PASSES_LL_2020_2021
         GROUP BY team
         HAVING COUNT(*) >= 1
         ORDER BY passes DESC;
@@ -271,9 +267,8 @@ def Q_5(cursor, conn, execution_time):
     
     query = """ 
         SELECT p.name, COUNT(*) AS numPassRecipients
-        FROM Passes pa
+        FROM PASSES_PL_2003_2004 pa
         JOIN Players p ON pa.recipient = p.name
-        WHERE pa.season = '2003/2004' AND pa.competition = 'Premier League'
         GROUP BY p.name
         HAVING COUNT(*) >= 1
         ORDER BY numPassRecipients DESC;
@@ -297,8 +292,7 @@ def Q_6(cursor, conn, execution_time):
     
     query = """
         SELECT team, COUNT(*) AS numShots
-        FROM Shots 
-        WHERE season = '2003/2004' AND competition = 'Premier League'
+        FROM SHOTS_PL_2003_2004
         GROUP BY team
         HAVING COUNT(*) >= 1
         ORDER BY numShots DESC;
@@ -322,9 +316,7 @@ def Q_7(cursor, conn, execution_time):
     
     query = """
         SELECT player, COUNT(*) AS numThroughBalls
-        FROM Passes pa
-        WHERE season = '2020/2021'
-        AND competition = 'La Liga' AND technique_name = 'Through Ball'
+        FROM LL_2020_2021_THRUBALL
         GROUP BY player
         HAVING COUNT(*) >= 1
         ORDER BY numThroughBalls DESC;
@@ -348,9 +340,7 @@ def Q_8(cursor, conn, execution_time):
     
     query = """
         SELECT team, COUNT(*) AS numThroughBalls
-        FROM Passes pa
-        WHERE season = '2020/2021'
-        AND competition = 'La Liga' AND technique_name = 'Through Ball'
+        FROM LL_2020_2021_THRUBALL
         GROUP BY team
         HAVING COUNT(*) >= 1
         ORDER BY numThroughBalls DESC;
@@ -374,9 +364,7 @@ def Q_9(cursor, conn, execution_time):
     
     query = """
         SELECT player, COUNT(*) AS numDribblesSucceeded
-        FROM Dribbles
-        WHERE season IN ('2020/2021', '2019/2020', '2018/2019')
-        AND competition = 'La Liga' AND outcome_name = 'Complete'
+        FROM DRIBBLES_LL_COMPLETE
         GROUP BY player
         HAVING COUNT(*) >= 1
         ORDER BY numDribblesSucceeded DESC;
@@ -400,9 +388,7 @@ def Q_10(cursor, conn, execution_time):
     
     query = """
         SELECT player, COUNT(*) AS numDribbledPast
-        FROM events
-        WHERE season = '2020/2021'
-        AND competition = 'La Liga' AND type_name = 'Dribbled Past'
+        FROM LL_2020_2021_DP
         GROUP BY player
         HAVING COUNT(*) >= 1
         ORDER BY numDribbledPast ASC;

@@ -1,19 +1,17 @@
 id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,week,competition_stage,stadium,referee
+16056,2018/2019,La Liga,2018-11-11,16:15:00.000,Barcelona,Real Betis,3,4,12,Regular Season,Spotify Camp Nou,Antonio Miguel Mateu Lahoz
+3749552,2003/2004,Premier League,2003-09-21,17:05:00.000,Manchester United,Arsenal,0,0,1,Regular Season,Old Trafford,
 16289,2018/2019,La Liga,2019-04-27,20:45:00.000,Barcelona,Levante UD,1,0,35,Regular Season,Spotify Camp Nou,Ricardo De Burgos Bengoetxea
 3749296,2003/2004,Premier League,2003-09-13,16:00:00.000,Arsenal,Portsmouth,1,1,5,Regular Season,Highbury Stadium,
-3749246,2003/2004,Premier League,2004-03-28,17:05:00.000,Arsenal,Manchester United,1,1,30,Regular Season,Highbury Stadium,
 3749454,2003/2004,Premier League,2003-08-31,17:05:00.000,Manchester City,Arsenal,1,2,1,Regular Season,Etihad Stadium,
 16079,2018/2019,La Liga,2018-12-02,18:30:00.000,Barcelona,Villarreal,2,0,14,Regular Season,Spotify Camp Nou,José Luis Munuera Montero
 3749276,2003/2004,Premier League,2004-02-21,13:30:00.000,Chelsea,Arsenal,1,2,2,Regular Season,Stamford Bridge,
-3749257,2003/2004,Premier League,2004-05-15,16:00:00.000,Arsenal,Leicester City,2,1,38,Regular Season,Highbury Stadium,
 3749068,2003/2004,Premier League,2004-04-25,17:05:00.000,Tottenham Hotspur,Arsenal,2,2,2,Regular Season,White Hart Lane,
 16149,2018/2019,La Liga,2019-01-27,16:15:00.000,Girona,Barcelona,0,2,21,Regular Season,Estadi Municipal de Montilivi,Pablo González Fuertes
-3749642,2003/2004,Premier League,2004-02-28,16:00:00.000,Arsenal,Charlton Athletic,2,1,27,Regular Season,Highbury Stadium,
 16275,2018/2019,La Liga,2019-04-23,21:30:00.000,Deportivo Alavés,Barcelona,0,2,34,Regular Season,Estadio de Mendizorroza,
 3749310,2003/2004,Premier League,2003-12-29,21:00:00.000,Southampton,Arsenal,0,1,1,Regular Season,St. Mary''s Stadium,
 3749493,2003/2004,Premier League,2003-08-16,16:00:00.000,Arsenal,Everton,2,1,1,Regular Season,Highbury Stadium,
 15973,2018/2019,La Liga,2018-09-02,18:30:00.000,Barcelona,Huesca,8,2,3,Regular Season,Spotify Camp Nou,Mario Melero López
-3749358,2003/2004,Premier League,2003-08-24,17:05:00.000,Middlesbrough,Arsenal,0,4,1,Regular Season,Riverside Stadium ,
 3749434,2003/2004,Premier League,2003-11-22,16:00:00.000,Birmingham City,Arsenal,0,3,1,Regular Season,St. Andrews Stadium,
 16317,2018/2019,La Liga,2019-05-19,16:15:00.000,Eibar,Barcelona,2,2,38,Regular Season,Estadio Municipal de Ipurúa,
 16131,2018/2019,La Liga,2019-01-13,18:30:00.000,Barcelona,Eibar,3,0,19,Regular Season,Spotify Camp Nou,Jesús Gil Manzano
@@ -22,23 +20,19 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 3749448,2003/2004,Premier League,2004-04-09,13:30:00.000,Arsenal,Liverpool,4,2,31,Regular Season,Highbury Stadium,
 16205,2018/2019,La Liga,2019-03-09,18:30:00.000,Barcelona,Rayo Vallecano,3,1,27,Regular Season,Spotify Camp Nou,
 3749360,2003/2004,Premier League,2003-12-14,15:00:00.000,Arsenal,Blackburn Rovers,1,0,16,Regular Season,Highbury Stadium,
-3749346,2003/2004,Premier League,2003-11-01,16:00:00.000,Leeds United,Arsenal,1,4,1,Regular Season,Elland Road ,
 3749453,2003/2004,Premier League,2004-04-16,21:00:00.000,Arsenal,Leeds United,5,0,33,Regular Season,Highbury Stadium,
 16095,2018/2019,La Liga,2018-12-16,20:45:00.000,Levante UD,Barcelona,0,5,16,Regular Season,Estadio Ciudad de Valencia,José Luis González González
 16306,2018/2019,La Liga,2019-05-12,18:30:00.000,Barcelona,Getafe,2,0,37,Regular Season,Spotify Camp Nou,José Luis González González
 3749278,2003/2004,Premier League,2003-12-20,16:00:00.000,Bolton Wanderers,Arsenal,1,1,1,Regular Season,University of Bolton Stadium,
 16010,2018/2019,La Liga,2018-09-29,16:15:00.000,Barcelona,Athletic Club,1,1,7,Regular Season,Spotify Camp Nou,
-3749253,2003/2004,Premier League,2003-10-04,13:30:00.000,Liverpool,Arsenal,1,2,1,Regular Season,Anfield ,
 15986,2018/2019,La Liga,2018-09-23,20:45:00.000,Barcelona,Girona,2,2,5,Regular Season,Spotify Camp Nou,Jesús Gil Manzano
-3773656,2020/2021,La Liga,2020-11-21,21:00:00.000,Atlético Madrid,Barcelona,1,0,10,Regular Season,	Estádio Cívitas Metropolitano,
 3749603,2003/2004,Premier League,2004-05-09,17:05:00.000,Fulham,Arsenal,0,1,2,Regular Season,Loftus Road,
 16240,2018/2019,La Liga,2019-04-02,21:30:00.000,Villarreal,Barcelona,4,4,30,Regular Season,Estadio de la Cerámica,
 3749274,2003/2004,Premier League,2004-05-04,21:00:00.000,Portsmouth,Arsenal,1,1,2,Regular Season,,Michael Riley
-3749079,2003/2004,Premier League,2003-10-18,16:00:00.000,Arsenal,Chelsea,2,1,9,Regular Season,Highbury Stadium,
 16023,2018/2019,La Liga,2018-10-07,20:45:00.000,Valencia,Barcelona,1,1,8,Regular Season,Estadio de Mestalla,José Luis González González
 3749590,2003/2004,Premier League,2003-12-06,16:00:00.000,Leicester City,Arsenal,1,1,1,Regular Season,,Robert Styles
+3749462,2003/2004,Premier League,2004-05-01,13:30:00.000,Arsenal,Birmingham City,0,0,35,Regular Season,Highbury Stadium,
 3749631,2003/2004,Premier League,2004-02-10,20:45:00.000,Arsenal,Southampton,2,0,25,Regular Season,,Neale Barry
-3749465,2003/2004,Premier League,2004-03-13,16:00:00.000,Blackburn Rovers,Arsenal,0,2,2,Regular Season,Ewood Park ,
 16196,2018/2019,La Liga,2019-03-02,20:45:00.000,Real Madrid,Barcelona,0,1,26,Regular Season,Estadio Santiago Bernabéu,Alberto Undiano Mallenco
 3749117,2003/2004,Premier League,2004-01-07,21:00:00.000,Everton,Arsenal,1,1,2,Regular Season,,Alan Wiley
 3749108,2003/2004,Premier League,2003-08-27,20:45:00.000,Arsenal,Aston Villa,2,0,3,Regular Season,,
@@ -48,20 +42,16 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 16231,2018/2019,La Liga,2019-03-30,16:15:00.000,Barcelona,Espanyol,2,0,29,Regular Season,Spotify Camp Nou,
 3749522,2003/2004,Premier League,2003-12-26,13:00:00.000,Arsenal,Wolverhampton Wanderers,3,0,18,Regular Season,Highbury Stadium,
 3749526,2003/2004,Premier League,2003-10-26,15:00:00.000,Charlton Athletic,Arsenal,1,1,1,Regular Season,The Valley,
-3749133,2003/2004,Premier League,2004-01-18,15:00:00.000,Aston Villa,Arsenal,0,2,2,Regular Season,Villa Park,
 3749431,2003/2004,Premier League,2004-04-11,17:05:00.000,Newcastle United,Arsenal,0,0,2,Regular Season,St. James'' Park,
 303532,2019/2020,La Liga,2020-06-16,22:00:00.000,Barcelona,Leganés,2,0,29,Regular Season,Spotify Camp Nou,
-3749528,2003/2004,Premier League,2003-09-26,21:00:00.000,Arsenal,Newcastle United,3,2,7,Regular Season,Highbury Stadium,
 303731,2019/2020,La Liga,2020-02-22,16:00:00.000,Barcelona,Eibar,5,0,25,Regular Season,Spotify Camp Nou,
 303516,2019/2020,La Liga,2020-06-27,17:00:00.000,Celta Vigo,Barcelona,2,2,32,Regular Season,Abanca-Balaídos,
-3749233,2003/2004,Premier League,2004-02-01,17:05:00.000,Arsenal,Manchester City,2,1,23,Regular Season,Highbury Stadium,
 303596,2019/2020,La Liga,2019-12-18,20:00:00.000,Barcelona,Real Madrid,0,0,10,Regular Season,Spotify Camp Nou,
 303430,2019/2020,La Liga,2019-09-24,21:00:00.000,Barcelona,Villarreal,2,1,6,Regular Season,Spotify Camp Nou,
-3749462,2003/2004,Premier League,2004-05-01,13:30:00.000,Arsenal,Birmingham City,0,0,35,Regular Season,Highbury Stadium,
 303725,2019/2020,La Liga,2020-07-05,22:00:00.000,Villarreal,Barcelona,1,4,34,Regular Season,Estadio de la Cerámica,
 303504,2019/2020,La Liga,2019-11-02,16:00:00.000,Levante UD,Barcelona,3,1,12,Regular Season,Estadio Ciudad de Valencia,
+3773656,2020/2021,La Liga,2020-11-21,21:00:00.000,Atlético Madrid,Barcelona,1,0,10,Regular Season,	Estádio Cívitas Metropolitano,
 15978,2018/2019,La Liga,2018-09-15,16:15:00.000,Real Sociedad,Barcelona,1,2,4,Regular Season,Reale Arena,Carlos del Cerro Grande
-3749552,2003/2004,Premier League,2003-09-21,17:05:00.000,Manchester United,Arsenal,0,0,1,Regular Season,Old Trafford,
 303451,2019/2020,La Liga,2019-12-07,21:00:00.000,Barcelona,Mallorca,5,2,16,Regular Season,Spotify Camp Nou,
 303664,2019/2020,La Liga,2019-12-14,16:00:00.000,Real Sociedad,Barcelona,2,2,17,Regular Season,Reale Arena,
 303682,2019/2020,La Liga,2020-02-02,21:00:00.000,Barcelona,Levante UD,2,1,22,Regular Season,Spotify Camp Nou,
@@ -69,10 +59,12 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 3773586,2020/2021,La Liga,2021-04-29,19:00:00.000,Barcelona,Granada,1,2,33,Regular Season,Spotify Camp Nou,Pablo González Fuertes
 303400,2019/2020,La Liga,2020-01-25,16:00:00.000,Valencia,Barcelona,2,0,21,Regular Season,Estadio de Mestalla,Jesús Gil Manzano
 3773372,2020/2021,La Liga,2021-05-08,16:15:00.000,Barcelona,Atlético Madrid,0,0,35,Regular Season,Spotify Camp Nou,Antonio Miguel Mateu Lahoz
+3749246,2003/2004,Premier League,2004-03-28,17:05:00.000,Arsenal,Manchester United,1,1,30,Regular Season,Highbury Stadium,
 3773387,2020/2021,La Liga,2021-05-11,22:00:00.000,Levante UD,Barcelona,3,3,36,Regular Season,Estadio Ciudad de Valencia,José Luis Munuera Montero
 3773695,2020/2021,La Liga,2021-05-02,21:00:00.000,Valencia,Barcelona,2,3,34,Regular Season,Estadio de Mestalla,José María Sánchez Martínez
 15998,2018/2019,La Liga,2018-09-26,20:00:00.000,Leganés,Barcelona,2,1,6,Regular Season,Estadio Municipal de Butarque,Alberto Undiano Mallenco
 303634,2019/2020,La Liga,2020-07-16,21:00:00.000,Barcelona,Osasuna,1,2,37,Regular Season,Spotify Camp Nou,
+3749257,2003/2004,Premier League,2004-05-15,16:00:00.000,Arsenal,Leicester City,2,1,38,Regular Season,Highbury Stadium,
 303421,2019/2020,La Liga,2020-07-19,17:00:00.000,Deportivo Alavés,Barcelona,0,5,38,Regular Season,Estadio de Mendizorroza,
 3773369,2020/2021,La Liga,2021-03-15,21:00:00.000,Barcelona,Huesca,4,1,27,Regular Season,Spotify Camp Nou,Adrián Cordero Vega
 303680,2019/2020,La Liga,2020-07-11,19:30:00.000,Real Valladolid,Barcelona,0,1,36,Regular Season,Estadio Municipal José Zorrilla,Antonio Miguel Mateu Lahoz
@@ -82,6 +74,7 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 303479,2019/2020,La Liga,2020-03-07,18:30:00.000,Barcelona,Real Sociedad,1,0,27,Regular Season,Spotify Camp Nou,
 3773597,2020/2021,La Liga,2021-03-21,21:00:00.000,Real Sociedad,Barcelona,1,6,28,Regular Season,Reale Arena,José Luis Munuera Montero
 3773523,2020/2021,La Liga,2020-12-16,21:00:00.000,Barcelona,Real Sociedad,2,1,19,Regular Season,Spotify Camp Nou,José María Sánchez Martínez
+3749642,2003/2004,Premier League,2004-02-28,16:00:00.000,Arsenal,Charlton Athletic,2,1,27,Regular Season,Highbury Stadium,
 3773571,2020/2021,La Liga,2020-12-22,22:00:00.000,Real Valladolid,Barcelona,0,3,15,Regular Season,Estadio Municipal José Zorrilla,Mario Melero López
 303615,2019/2020,La Liga,2020-07-08,22:00:00.000,Barcelona,Espanyol,1,0,35,Regular Season,Spotify Camp Nou,
 303696,2019/2020,La Liga,2020-06-30,22:00:00.000,Barcelona,Atlético Madrid,2,2,33,Regular Season,Spotify Camp Nou,
@@ -93,6 +86,7 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 3764661,2020/2021,La Liga,2021-01-06,21:00:00.000,Athletic Club,Barcelona,2,3,2,Regular Season,San Mamés Barria,Carlos del Cerro Grande
 303652,2019/2020,La Liga,2020-01-04,21:00:00.000,Espanyol,Barcelona,2,2,19,Regular Season,RCDE Stadium,
 3773526,2020/2021,La Liga,2021-02-13,21:00:00.000,Barcelona,Deportivo Alavés,5,1,23,Regular Season,Spotify Camp Nou,Jorge Figueroa Vázquez
+3749358,2003/2004,Premier League,2003-08-24,17:05:00.000,Middlesbrough,Arsenal,0,4,1,Regular Season,Riverside Stadium ,
 303674,2019/2020,La Liga,2020-06-19,22:00:00.000,Sevilla,Barcelona,0,0,30,Regular Season,Estadio Ramón Sánchez Pizjuán,José Luis González González
 16086,2018/2019,La Liga,2018-12-08,20:45:00.000,Espanyol,Barcelona,0,4,15,Regular Season,RCDE Stadium,
 3773474,2020/2021,La Liga,2021-04-05,21:00:00.000,Barcelona,Real Valladolid,1,0,29,Regular Season,Spotify Camp Nou,Santiago Jaime Latre
@@ -104,6 +98,7 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 3773547,2020/2021,La Liga,2020-11-29,14:00:00.000,Barcelona,Osasuna,4,0,11,Regular Season,Spotify Camp Nou,Antonio Miguel Mateu Lahoz
 3773415,2020/2021,La Liga,2021-02-21,14:00:00.000,Barcelona,Cádiz,1,1,24,Regular Season,Spotify Camp Nou,Juan Martínez Munuera
 16190,2018/2019,La Liga,2019-02-23,16:15:00.000,Sevilla,Barcelona,2,4,25,Regular Season,Estadio Ramón Sánchez Pizjuán,Antonio Miguel Mateu Lahoz
+3749346,2003/2004,Premier League,2003-11-01,16:00:00.000,Leeds United,Arsenal,1,4,1,Regular Season,Elland Road ,
 303666,2019/2020,La Liga,2019-09-21,21:00:00.000,Granada,Barcelona,2,0,5,Regular Season,Estadio Nuevo Los Cármenes,
 303715,2019/2020,La Liga,2019-11-23,13:00:00.000,Leganés,Barcelona,1,2,14,Regular Season,Estadio Municipal de Butarque,
 3764440,2020/2021,La Liga,2021-02-24,19:00:00.000,Barcelona,Elche,3,0,1,Regular Season,Spotify Camp Nou,Isidro Díaz de Mera Escuderos
@@ -115,27 +110,32 @@ id,season,competition,date,kick_off,home_team,away_team,home_score,away_score,we
 303517,2019/2020,La Liga,2019-12-21,16:00:00.000,Barcelona,Deportivo Alavés,4,1,18,Regular Season,Spotify Camp Nou,
 303610,2019/2020,La Liga,2020-01-19,21:00:00.000,Barcelona,Granada,1,0,20,Regular Season,Spotify Camp Nou,
 303473,2019/2020,La Liga,2019-10-06,21:00:00.000,Barcelona,Sevilla,4,0,8,Regular Season,Spotify Camp Nou,Antonio Miguel Mateu Lahoz
+3749253,2003/2004,Premier League,2003-10-04,13:30:00.000,Liverpool,Arsenal,1,2,1,Regular Season,Anfield ,
 16120,2018/2019,La Liga,2019-01-06,20:45:00.000,Getafe,Barcelona,1,2,18,Regular Season,Coliseum Alfonso Pérez,
 3773386,2020/2021,La Liga,2020-10-31,21:00:00.000,Deportivo Alavés,Barcelona,1,1,8,Regular Season,Estadio de Mendizorroza,
 3773565,2020/2021,La Liga,2021-01-09,18:30:00.000,Granada,Barcelona,0,4,18,Regular Season,Estadio Nuevo Los Cármenes,Ricardo De Burgos Bengoetxea
 16182,2018/2019,La Liga,2019-02-16,20:45:00.000,Barcelona,Real Valladolid,1,0,24,Regular Season,Spotify Camp Nou,
 3773457,2020/2021,La Liga,2021-05-16,18:30:00.000,Barcelona,Celta Vigo,1,2,37,Regular Season,Spotify Camp Nou,
+3749079,2003/2004,Premier League,2003-10-18,16:00:00.000,Arsenal,Chelsea,2,1,9,Regular Season,Highbury Stadium,
+3773587,2020/2021,La Liga,2020-10-17,21:00:00.000,Getafe,Barcelona,1,0,6,Regular Season,Coliseum Alfonso Pérez,César Soto Grado
 3749052,2003/2004,Premier League,2004-02-07,16:00:00.000,Wolverhampton Wanderers,Arsenal,1,3,2,Regular Season,Molineux Stadium,
 16215,2018/2019,La Liga,2019-03-17,20:45:00.000,Real Betis,Barcelona,1,4,28,Regular Season,Estadio Benito Villamarín,
 3773631,2020/2021,La Liga,2021-02-07,21:00:00.000,Real Betis,Barcelona,2,3,22,Regular Season,Estadio Benito Villamarín,
+3749465,2003/2004,Premier League,2004-03-13,16:00:00.000,Blackburn Rovers,Arsenal,0,2,2,Regular Season,Ewood Park ,
 3773665,2020/2021,La Liga,2021-03-06,21:00:00.000,Osasuna,Barcelona,0,2,26,Regular Season,Estadio El Sadar,Guillermo Cuadra Fernández
 16173,2018/2019,La Liga,2019-02-10,20:45:00.000,Athletic Club,Barcelona,0,0,23,Regular Season,San Mamés Barria,Carlos del Cerro Grande
 3773497,2020/2021,La Liga,2021-04-10,21:00:00.000,Real Madrid,Barcelona,2,1,30,Regular Season,Estadio Alfredo Di Stéfano,Jesús Gil Manzano
 16265,2018/2019,La Liga,2019-04-20,20:45:00.000,Barcelona,Real Sociedad,2,1,33,Regular Season,Spotify Camp Nou,
 3773660,2020/2021,La Liga,2020-12-13,21:00:00.000,Barcelona,Levante UD,1,0,13,Regular Season,Spotify Camp Nou,Ricardo De Burgos Bengoetxea
+3749133,2003/2004,Premier League,2004-01-18,15:00:00.000,Aston Villa,Arsenal,0,2,2,Regular Season,Villa Park,
 3773593,2020/2021,La Liga,2020-09-27,21:00:00.000,Barcelona,Villarreal,4,0,3,Regular Season,Spotify Camp Nou,Guillermo Cuadra Fernández
 3773466,2020/2021,La Liga,2020-10-01,21:30:00.000,Celta Vigo,Barcelona,0,3,4,Regular Season,Abanca-Balaídos,Carlos del Cerro Grande
+3749528,2003/2004,Premier League,2003-09-26,21:00:00.000,Arsenal,Newcastle United,3,2,7,Regular Season,Highbury Stadium,
 15946,2018/2019,La Liga,2018-08-18,22:15:00.000,Barcelona,Deportivo Alavés,3,0,1,Regular Season,Spotify Camp Nou,José María Sánchez Martínez
 3773585,2020/2021,La Liga,2020-10-24,16:00:00.000,Barcelona,Real Madrid,1,3,7,Regular Season,Spotify Camp Nou,Juan Martínez Munuera
+3749233,2003/2004,Premier League,2004-02-01,17:05:00.000,Arsenal,Manchester City,2,1,23,Regular Season,Highbury Stadium,
 16157,2018/2019,La Liga,2019-02-02,18:30:00.000,Barcelona,Valencia,2,2,22,Regular Season,Spotify Camp Nou,Alberto Undiano Mallenco
 3773552,2020/2021,La Liga,2021-01-03,21:00:00.000,Huesca,Barcelona,0,1,17,Regular Season,Estadio El Alcoraz,Guillermo Cuadra Fernández
 3773672,2020/2021,La Liga,2020-10-04,21:00:00.000,Barcelona,Sevilla,1,1,5,Regular Season,Spotify Camp Nou,Jesús Gil Manzano
 16136,2018/2019,La Liga,2019-01-20,20:45:00.000,Barcelona,Leganés,3,1,20,Regular Season,Spotify Camp Nou,Ricardo De Burgos Bengoetxea
 16248,2018/2019,La Liga,2019-04-06,20:45:00.000,Barcelona,Atlético Madrid,2,0,31,Regular Season,Spotify Camp Nou,Jesús Gil Manzano
-3773587,2020/2021,La Liga,2020-10-17,21:00:00.000,Getafe,Barcelona,1,0,6,Regular Season,Coliseum Alfonso Pérez,César Soto Grado
-16056,2018/2019,La Liga,2018-11-11,16:15:00.000,Barcelona,Real Betis,3,4,12,Regular Season,Spotify Camp Nou,Antonio Miguel Mateu Lahoz
