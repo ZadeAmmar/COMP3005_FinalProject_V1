@@ -1,0 +1,125 @@
+event_id,id,name,match_id,season,competition,team,player,card_id,card_name
+1ae944d9-2d09-416c-b8cf-39231a7acd08,24,Bad Behaviour,303377,2019/2020,La Liga,Barcelona,Anssumane Fati,7,Yellow Card
+c4d87152-e18e-400f-bc31-ebe8091955ef,24,Bad Behaviour,303517,2019/2020,La Liga,Deportivo Alavés,Aleix Vidal Parreu,7,Yellow Card
+7ea998bc-da97-4ebc-b3f9-7f5b19a6097f,24,Bad Behaviour,3773415,2020/2021,La Liga,Cádiz,Iván Alejo Peralta,7,Yellow Card
+42d6c8cb-6499-44ca-9058-0d5e65ec881c,24,Bad Behaviour,303473,2019/2020,La Liga,Barcelona,Luis Alberto Suárez Díaz,7,Yellow Card
+c48c8cdf-6f81-4fe2-b148-e61fe03d7a4f,24,Bad Behaviour,3773585,2020/2021,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+7ac53659-ad0f-46c1-9c8f-1a58c9e6da3f,24,Bad Behaviour,303516,2019/2020,La Liga,Celta Vigo,Iago Aspas Juncal,7,Yellow Card
+d9f3034d-0498-4a8f-8376-bcc3ce7fbc16,24,Bad Behaviour,303634,2019/2020,La Liga,Osasuna,Pervis Josué Estupiñán Tenorio,7,Yellow Card
+6aeccb5f-a538-432a-b9fc-f79ceaf1780b,24,Bad Behaviour,303473,2019/2020,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+7ca8c83f-5c70-4a47-8a11-a9d2164f01e0,24,Bad Behaviour,3773474,2020/2021,La Liga,Real Valladolid,Jordi Masip López,7,Yellow Card
+91ea8068-5a65-4bf3-a740-dcf8702917c7,24,Bad Behaviour,3773689,2020/2021,La Liga,Villarreal,Raúl Albiol i Tortajada,7,Yellow Card
+aa333d46-38e0-437c-87e4-14c3cbdde554,24,Bad Behaviour,3749590,2003/2004,Premier League,Leicester City,Leslie Ferdinand,7,Yellow Card
+02345729-69cf-44f8-9ef5-98d1b7158aa4,24,Bad Behaviour,3749590,2003/2004,Premier League,Arsenal,Jens Lehmann,7,Yellow Card
+4b8f5ba3-7ca9-4b60-bec0-fe6bb64c9540,24,Bad Behaviour,3749522,2003/2004,Premier League,Arsenal,Patrick Vieira,7,Yellow Card
+462c64d1-a6cd-477c-93d2-2c7b02ab336d,24,Bad Behaviour,3773386,2020/2021,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+433631fb-376a-4cce-a8e5-8ca93a5bbcb8,24,Bad Behaviour,16056,2018/2019,La Liga,Barcelona,Sergio Busquets i Burgos,7,Yellow Card
+18266c13-c050-4996-8543-68009ce04eed,24,Bad Behaviour,3749233,2003/2004,Premier League,Arsenal,Ashley Cole,7,Yellow Card
+0878f5cc-05e4-401f-a9ff-6153dfe374c7,24,Bad Behaviour,3749552,2003/2004,Premier League,Arsenal,Patrick Vieira,6,Second Yellow
+7ccff695-8bd8-4c51-87c1-773540787e38,24,Bad Behaviour,3749233,2003/2004,Premier League,Arsenal,Eduardo César Daude Gaspar,7,Yellow Card
+aec6c6e6-ba27-4aa7-bd2e-bcda6e8d85c7,24,Bad Behaviour,16196,2018/2019,La Liga,Real Madrid,Daniel Carvajal Ramos,7,Yellow Card
+04967f94-2c0b-4f42-be26-1852cb6b950d,24,Bad Behaviour,16149,2018/2019,La Liga,Girona,Yassine Bounou,7,Yellow Card
+2288bcf1-3e82-4f5a-96d8-68965a7be3cf,24,Bad Behaviour,3749233,2003/2004,Premier League,Manchester City,Nicolas Anelka,5,Red Card
+94d8c045-b1fc-4ecb-87f1-fd867044c924,24,Bad Behaviour,303680,2019/2020,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+c7529a07-6c0a-4039-8ea6-a9dc1769bdce,24,Bad Behaviour,3773372,2020/2021,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+b6d9a116-1f0e-4805-affa-042dedf73604,24,Bad Behaviour,3749448,2003/2004,Premier League,Arsenal,Laureano Bisan-Etame Mayer,7,Yellow Card
+0168113e-2389-4c04-87ce-4ce14d9da787,24,Bad Behaviour,15986,2018/2019,La Liga,Girona,Cristian Portugués Manzanera,7,Yellow Card
+9aed54b8-851a-4d52-9ca4-82ec39dc6559,24,Bad Behaviour,16157,2018/2019,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+51951505-5a70-4558-b3f0-5d6dec5e5cbf,24,Bad Behaviour,303430,2019/2020,La Liga,Barcelona,Héctor Junior Firpo Adames,7,Yellow Card
+3ad55f15-9140-4f4f-bbeb-92a6bce24b03,24,Bad Behaviour,303615,2019/2020,La Liga,Espanyol,Víctor Sánchez Mata,7,Yellow Card
+f9f7f9ad-cc8b-428b-b9e9-fb88025c6261,24,Bad Behaviour,3773565,2020/2021,La Liga,Granada,Luis Javier Suárez Charris,7,Yellow Card
+0bc9c386-940e-408b-9168-5b084683140c,24,Bad Behaviour,16131,2018/2019,La Liga,Eibar,Sergio Enrich Ametller,7,Yellow Card
+39092874-46c9-4b0c-91eb-448257b07d7d,24,Bad Behaviour,16095,2018/2019,La Liga,Levante UD,David Remeseiro Salgueiro,7,Yellow Card
+53e212e6-9886-4c2a-a525-041d502fcf14,24,Bad Behaviour,303610,2019/2020,La Liga,Granada,Carlos Fernández Luna,7,Yellow Card
+2bf5b974-135b-47d3-aeb9-0b1b82001804,24,Bad Behaviour,16231,2018/2019,La Liga,Espanyol,Esteban Félix Granero Molina,7,Yellow Card
+319dc89d-ae11-4d8c-9bdf-de5184b78579,24,Bad Behaviour,303516,2019/2020,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+70d1ed40-9935-4424-8310-9f6265429a75,24,Bad Behaviour,16109,2018/2019,La Liga,Celta Vigo,Iago Aspas Juncal,7,Yellow Card
+de1ea5c0-6f30-4b4d-b862-1e51edc9486d,24,Bad Behaviour,3773587,2020/2021,La Liga,Barcelona,Sergi Roberto Carnicer,7,Yellow Card
+6ab19276-0a3c-44c0-976a-246eda0963d9,24,Bad Behaviour,3773466,2020/2021,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+aa810b74-0d05-4e2a-b781-ce0e17a1521a,24,Bad Behaviour,3749233,2003/2004,Premier League,Manchester City,Trevor Sinclair,7,Yellow Card
+072ec3a0-0268-4da3-bb3c-41fbad81c0ee,24,Bad Behaviour,303473,2019/2020,La Liga,Barcelona,Ousmane Dembélé,5,Red Card
+004c94c3-d3c1-4ddc-a755-0e61db766120,24,Bad Behaviour,3773586,2020/2021,La Liga,Granada,Germán Sánchez Barahona,7,Yellow Card
+ead1dd6d-6851-461f-bf47-99bd38fd32ae,24,Bad Behaviour,303473,2019/2020,La Liga,Barcelona,Sergio Busquets i Burgos,7,Yellow Card
+cb34fd9f-9c10-49c7-b26a-51b3054ab1cb,24,Bad Behaviour,303731,2019/2020,La Liga,Eibar,Gonzalo Escalante,7,Yellow Card
+b0b901a9-722f-4019-a34f-f5b2fb11c899,24,Bad Behaviour,303634,2019/2020,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+39197f47-cda5-499f-ac4c-571317c16535,24,Bad Behaviour,303696,2019/2020,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+9b5c24f9-74d1-431c-a9f6-943ab408dff5,24,Bad Behaviour,3773497,2020/2021,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+e4996cef-926c-4988-b9f0-312e8282a43c,24,Bad Behaviour,16010,2018/2019,La Liga,Barcelona,Sergio Busquets i Burgos,7,Yellow Card
+c8ec9a97-0ff9-4d71-a645-5c7fb21128e5,24,Bad Behaviour,16131,2018/2019,La Liga,Barcelona,Luis Alberto Suárez Díaz,7,Yellow Card
+92cd37e5-ab6c-4db7-9018-9bb8e539b450,24,Bad Behaviour,3749631,2003/2004,Premier League,Southampton,Michael Lennart Svensson,7,Yellow Card
+dc3a1acb-62df-4a7b-8562-812729bf91d1,24,Bad Behaviour,3773466,2020/2021,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+36ef61c5-914e-49c0-b01e-f59e990fd4f2,24,Bad Behaviour,3749631,2003/2004,Premier League,Southampton,Antti Mikko Niemi,7,Yellow Card
+6c1a83b9-a49b-4183-b7e4-f86c596642da,24,Bad Behaviour,16205,2018/2019,La Liga,Rayo Vallecano,Gilbert Gianelli Imbula Wanga,7,Yellow Card
+23a2ba00-d4c7-4989-b64a-64f53a881893,24,Bad Behaviour,3773403,2020/2021,La Liga,Athletic Club,Yeray Álvarez López,7,Yellow Card
+2b81f628-f4f9-410c-b5a8-c59118821902,24,Bad Behaviour,15946,2018/2019,La Liga,Deportivo Alavés,Guillermo Alfonso Maripán Loaysa,7,Yellow Card
+b94034d6-5970-47f0-a475-00d81f90dbf2,24,Bad Behaviour,303707,2019/2020,La Liga,Real Betis,Nabil Fekir,6,Second Yellow
+d726cd9b-e3d8-493a-8764-d359dc8300b7,24,Bad Behaviour,303700,2019/2020,La Liga,Eibar,Charles Días Barbosa de Oliveira,7,Yellow Card
+a9231934-5dd3-453c-afc9-825b7d60b779,24,Bad Behaviour,3773547,2020/2021,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+0085a955-c073-4b5a-b6ce-a0ae001b098b,24,Bad Behaviour,16275,2018/2019,La Liga,Deportivo Alavés,Jonathan Rodríguez Menéndez,7,Yellow Card
+275ab045-2b63-4d8b-a722-bf1b84a1574c,24,Bad Behaviour,16010,2018/2019,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+f99502d4-68db-4a18-a3e2-4d3be355c5ab,24,Bad Behaviour,15978,2018/2019,La Liga,Barcelona,Samuel Yves Umtiti,7,Yellow Card
+2f95cdae-bbea-41f3-8268-ff02f2aa9f99,24,Bad Behaviour,3749346,2003/2004,Premier League,Leeds United,David Batty,7,Yellow Card
+347d8c76-922f-49ce-93bc-f3b87ab8c282,24,Bad Behaviour,303634,2019/2020,La Liga,Barcelona,Héctor Junior Firpo Adames,7,Yellow Card
+ddcd7031-fb34-4a50-8e51-46e75b526039,24,Bad Behaviour,303707,2019/2020,La Liga,Barcelona,Sergio Busquets i Burgos,7,Yellow Card
+3958c5f1-46b0-4868-922e-949b880c60de,24,Bad Behaviour,303517,2019/2020,La Liga,Deportivo Alavés,Mubarak Wakaso,7,Yellow Card
+5496c430-139d-442d-a085-ecea546abb99,24,Bad Behaviour,16095,2018/2019,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+f1007a5c-60c8-40d8-b9e9-1ef4d7b41521,24,Bad Behaviour,3773587,2020/2021,La Liga,Getafe,Mathías Olivera Miramontes,7,Yellow Card
+1634f921-9c50-4b5e-b84d-39db45add33d,24,Bad Behaviour,303517,2019/2020,La Liga,Barcelona,Samuel Yves Umtiti,7,Yellow Card
+d6daaed7-116a-4fec-8f1c-d96b95ff12f5,24,Bad Behaviour,16317,2018/2019,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+cc8bbec2-c403-4d8b-acfa-50799b1bf117,24,Bad Behaviour,16023,2018/2019,La Liga,Barcelona,Luis Alberto Suárez Díaz,7,Yellow Card
+0591dc98-5a98-46a8-bda4-72d2b8ed694e,24,Bad Behaviour,16317,2018/2019,La Liga,Eibar,Iván Ramis Barrios,7,Yellow Card
+6bc06cc8-17a2-4452-9526-ec61d36698a4,24,Bad Behaviour,303666,2019/2020,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+b2395a5b-d4cd-4c34-b4bd-d66cc16b3852,24,Bad Behaviour,16073,2018/2019,La Liga,Atlético Madrid,Filipe Luís Kasmirski,7,Yellow Card
+51bd1956-45b5-45e3-9eb7-b76c6076f368,24,Bad Behaviour,16182,2018/2019,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+18d1ce75-f99d-439e-80db-ca6d3276963b,24,Bad Behaviour,303707,2019/2020,La Liga,Real Betis,Guido Rodríguez,7,Yellow Card
+1318e465-94f3-4c75-8209-87989ce6d688,24,Bad Behaviour,303532,2019/2020,La Liga,Leganés,Rubén Salvador Pérez Del Mármol,7,Yellow Card
+da9341a1-4e2c-4f14-8beb-95e3f4a48ca8,24,Bad Behaviour,3749068,2003/2004,Premier League,Tottenham Hotspur,Robbie Keane,7,Yellow Card
+d9255e3b-8c8c-44dd-8e21-84793ba1ad31,24,Bad Behaviour,3773625,2020/2021,La Liga,Barcelona,Ousmane Dembélé,7,Yellow Card
+9f699928-8707-4f91-b979-c09369a0132c,24,Bad Behaviour,16079,2018/2019,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+d3a9f326-3abb-4fda-9505-c2e9c66b2afb,24,Bad Behaviour,3749454,2003/2004,Premier League,Arsenal,Fredrik Ljungberg,7,Yellow Card
+77fde724-ff25-417c-82d3-855a51382526,24,Bad Behaviour,303470,2019/2020,La Liga,Real Madrid,Daniel Carvajal Ramos,7,Yellow Card
+0076674d-7a50-41d3-8ec5-8269952bde58,24,Bad Behaviour,3773497,2020/2021,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+7e139fbc-9238-41a6-8b82-5794d5eed948,24,Bad Behaviour,3749454,2003/2004,Premier League,Manchester City,Michael Tarnat,7,Yellow Card
+dea7e17d-17e8-47c8-9c13-62b62660dda2,24,Bad Behaviour,303470,2019/2020,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+f0270a61-63f8-4c2c-8d4a-3c4bd297872e,24,Bad Behaviour,16010,2018/2019,La Liga,Athletic Club,Peru Nolaskoain Esnal,7,Yellow Card
+5b713987-df31-48ce-888a-ae18a6bfa59e,24,Bad Behaviour,303664,2019/2020,La Liga,Barcelona,Luis Alberto Suárez Díaz,7,Yellow Card
+146ad166-f011-47a8-b9fd-d4f2cddf4fef,24,Bad Behaviour,3749278,2003/2004,Premier League,Bolton Wanderers,Kevin Nolan,7,Yellow Card
+044cccb4-490e-4b9b-b60b-ab6d9fcd77c5,24,Bad Behaviour,303615,2019/2020,La Liga,Espanyol,David López Silva,7,Yellow Card
+03fc1540-ea5e-4494-926d-b00cd1f17c46,24,Bad Behaviour,3764661,2020/2021,La Liga,Barcelona,Clément Lenglet,7,Yellow Card
+e45f599b-21d1-4ce7-ac2f-38cf72e7b247,24,Bad Behaviour,303674,2019/2020,La Liga,Barcelona,Sergio Busquets i Burgos,7,Yellow Card
+af0cb900-e332-4a2b-a553-516cdaae9926,24,Bad Behaviour,303674,2019/2020,La Liga,Sevilla,Fernando Francisco Reges,7,Yellow Card
+0018445a-9c09-4f36-a940-37a91613747b,24,Bad Behaviour,16173,2018/2019,La Liga,Athletic Club,Yeray Álvarez López,7,Yellow Card
+1228a87d-8956-4f2c-bd25-bd3c1a947abe,24,Bad Behaviour,16120,2018/2019,La Liga,Getafe,Dimitri Foulquier,7,Yellow Card
+88f34a45-96cf-4c20-9b0d-bb1d0ddf793f,24,Bad Behaviour,3773695,2020/2021,La Liga,Barcelona,Marc-André ter Stegen,7,Yellow Card
+19881f59-57af-465a-b199-a43468d6697f,24,Bad Behaviour,16248,2018/2019,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+62c5d7e9-4ec8-4f3e-a9bc-d724cff74382,24,Bad Behaviour,16248,2018/2019,La Liga,Barcelona,Luis Alberto Suárez Díaz,7,Yellow Card
+9c2177fd-b4ab-4b55-b716-2addf357bd36,24,Bad Behaviour,16010,2018/2019,La Liga,Barcelona,Ivan Rakitić,7,Yellow Card
+4a993ff1-4625-4de8-8271-674fa028de72,24,Bad Behaviour,16023,2018/2019,La Liga,Barcelona,Philippe Coutinho Correia,7,Yellow Card
+2d24a011-894e-4d9e-afdc-1cb02ff2b83f,24,Bad Behaviour,3749052,2003/2004,Premier League,Wolverhampton Wanderers,Ioan Viorel Ganea,7,Yellow Card
+af096ac7-5159-448c-8364-e419c24148e7,24,Bad Behaviour,16240,2018/2019,La Liga,Barcelona,Lionel Andrés Messi Cuccittini,7,Yellow Card
+a2b0f222-6c8a-4adb-a6d1-890cfced3560,24,Bad Behaviour,303682,2019/2020,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+fc39edb8-feea-461e-99a9-a8a2d6eeba7f,24,Bad Behaviour,3773403,2020/2021,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+dbdd8bf8-0e58-4bfd-8470-351c2227d2e1,24,Bad Behaviour,3749603,2003/2004,Premier League,Fulham,Sean Davis,7,Yellow Card
+938c7854-3f7e-40d8-a24b-dda10a7e9af8,24,Bad Behaviour,16240,2018/2019,La Liga,Barcelona,Luis Alberto Suárez Díaz,7,Yellow Card
+1d2acac5-79ce-46f5-9031-bef0a09b0182,24,Bad Behaviour,3773377,2020/2021,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+7d79b606-ddcf-43a3-a9f6-576b1a861738,24,Bad Behaviour,3773656,2020/2021,La Liga,Atlético Madrid,Stefan Savić,7,Yellow Card
+2b2e9aba-b389-4254-8f61-743415e63ce4,24,Bad Behaviour,15986,2018/2019,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+b8e50c49-1ef6-4b6d-a893-c9ceb0231187,24,Bad Behaviour,16248,2018/2019,La Liga,Atlético Madrid,Diego da Silva Costa,5,Red Card
+e08056c4-b9bf-4943-ab36-66ae853f12b7,24,Bad Behaviour,3749360,2003/2004,Premier League,Blackburn Rovers,Barry Ferguson,7,Yellow Card
+a4837fef-d943-404c-a188-e666ea8b5d5f,24,Bad Behaviour,16248,2018/2019,La Liga,Atlético Madrid,José María Giménez de Vargas,7,Yellow Card
+c5048228-ac28-4bc0-b274-94d16ac9319f,24,Bad Behaviour,16248,2018/2019,La Liga,Atlético Madrid,Diego Roberto Godín Leal,7,Yellow Card
+7e03524c-4cff-4f1b-8682-ed59945040c0,24,Bad Behaviour,16190,2018/2019,La Liga,Sevilla,Maximilian Wöber,7,Yellow Card
+474fbe0f-07ed-4ee8-afd2-ee7493377f43,24,Bad Behaviour,303473,2019/2020,La Liga,Barcelona,Ousmane Dembélé,7,Yellow Card
+2388615d-3d19-411e-84fc-3cf4d751684d,24,Bad Behaviour,16073,2018/2019,La Liga,Atlético Madrid,Diego da Silva Costa,7,Yellow Card
+4998bcbb-755b-4b90-9137-8737a73d0cb4,24,Bad Behaviour,3773387,2020/2021,La Liga,Levante UD,Jorge De Frutos Sebastián,7,Yellow Card
+f53a1ef0-84ea-484e-914d-dab6eb06ebf8,24,Bad Behaviour,16073,2018/2019,La Liga,Barcelona,Samuel Yves Umtiti,7,Yellow Card
+f8b00700-0351-42be-b750-9e56aa180b0c,24,Bad Behaviour,16215,2018/2019,La Liga,Real Betis,José Andrés Guardado Hernández,7,Yellow Card
+471cc926-3900-4002-ac5f-5fde6ff4d356,24,Bad Behaviour,16190,2018/2019,La Liga,Sevilla,Roque Mesa Quevedo,7,Yellow Card
+6ef35003-4085-4af3-bc50-7502a9159427,24,Bad Behaviour,3749603,2003/2004,Premier League,Arsenal,Ray Parlour,7,Yellow Card
+37e28eb1-30a5-4297-a6bc-bdba2ccda2c2,24,Bad Behaviour,16149,2018/2019,La Liga,Girona,Cristhian Ricardo Stuani Curbelo,7,Yellow Card
+beff89c4-062e-48f3-891f-3ce5f6688b56,24,Bad Behaviour,303696,2019/2020,La Liga,Barcelona,Marc-André ter Stegen,7,Yellow Card
+692723de-e83e-4a6d-b958-d9b272033f8b,24,Bad Behaviour,303479,2019/2020,La Liga,Real Sociedad,Mikel Oyarzabal Ugarte,7,Yellow Card
+90603851-71e4-465f-82f1-c2a890da40ee,24,Bad Behaviour,3773585,2020/2021,La Liga,Barcelona,Jordi Alba Ramos,7,Yellow Card
+af0ae3f8-2ce5-4c4f-bc40-4bc480f4afa5,24,Bad Behaviour,303696,2019/2020,La Liga,Barcelona,Gerard Piqué Bernabéu,7,Yellow Card
+758d92b2-3c05-4f19-af7f-3c7b4f082e11,24,Bad Behaviour,3773689,2020/2021,La Liga,Barcelona,Óscar Mingueza García,7,Yellow Card
+dd8926a6-8980-403b-8c18-aec2743d178d,24,Bad Behaviour,3749133,2003/2004,Premier League,Aston Villa,Mark Anthony Delaney,7,Yellow Card
