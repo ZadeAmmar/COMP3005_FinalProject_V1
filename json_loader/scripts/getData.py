@@ -560,9 +560,7 @@ def populateData():
     readEvents()
 
 def main():
-    now = time.time()
     readMatches()
     readLineups()
     readEvents()
     writeDataToCSV()
-    print(time.time() - now)
